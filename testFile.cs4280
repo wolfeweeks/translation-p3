@@ -1,0 +1,9 @@
+var x : 1;
+var y : 2 ;
+begin
+  scan x ; 
+  begin 
+     var w : 3 ;
+     print(w) ;
+  end
+end
